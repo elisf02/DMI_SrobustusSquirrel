@@ -1,5 +1,8 @@
 # DMI_SrobustusSquirrel
-code to reproduce the results of: "SILENT ENEMIES: SUBLETHAL MACROPARASITES CAN DRIVE DISEASE-MEDIATED INVASIONS"
+code to reproduce the results of: "Silent enemies: sublethal macroparasites can drive disease-mediated invasions", C. Romeo, E. Fesce*, L.A. Wauters, F. Santicchia, P.W.W. Lurz, A. White, N. Ferrari
+
+* corresponding author: elisa.fesce@unimi.it
+
 
 The code includes 4 files: 
 1) "Main.R": the main code to reproduce the simulations of the scenarios
